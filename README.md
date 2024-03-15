@@ -1,4 +1,5 @@
-### Gesture Controlled OS ![Windows](https://img.shields.io/badge/Windows-Latest-blue)  ![Python](https://img.shields.io/badge/Python-3.9.7-blue)
+# Gesture Controlled OS ![Windows](https://img.shields.io/badge/Windows-Latest-blue)  ![Python](https://img.shields.io/badge/Python-3.9.7-blue)
+##Team SpongeBob
 
 Gesture Controlled Virtual Mouse makes human-computer interaction simple by utilizing Hand Gestures. The computer requires almost no direct contact, and all input/output operations can be virtually controlled using static and dynamic hand gestures. This project leverages state-of-the-art Machine Learning and Computer Vision algorithms to recognize hand gestures and voice commands, providing smooth interaction without any additional hardware requirements. It consists of two modules: one which directly works on hands using MediaPipe Hand detection, and the other which makes use of gloves of any uniform color. Currently, it works on the Windows platform.
 
@@ -12,8 +13,7 @@ Gesture Controlled Virtual Mouse makes human-computer interaction simple by util
  - Window and tab switch gestures
  - Volume and brightness controls
  - Screen scroll
- - Maximize / minimize window
- - 
+ - Maximize / minimize window 
  - Demo interface
 
 
@@ -41,9 +41,9 @@ To run the Gesture Controlled OS, follow these steps:
 ### Contributors
 This project was developed by Team Spongebob during a hackathon.
 
-- [Vijay Varadharajan]
-- [Santhosh Kumar S P]
-- [Goutham Kurapati]
-- [Gokul]
+- Vijay Varadharajan
+- Santhosh Kumar S P
+- Goutham Kurapati
+- Gokul
 
 For any inquiries or issues, please contact santhoshkumarsp222004@gmail.com .
