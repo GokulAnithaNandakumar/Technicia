@@ -1,4 +1,4 @@
-### Gesture Controlled OS
+### Gesture Controlled OS ![Windows](https://img.shields.io/badge/Windows-Latest-blue)  ![Python](https://img.shields.io/badge/Python-3.9.7-blue)
 
 Gesture Controlled Virtual Mouse makes human-computer interaction simple by utilizing Hand Gestures. The computer requires almost no direct contact, and all input/output operations can be virtually controlled using static and dynamic hand gestures. This project leverages state-of-the-art Machine Learning and Computer Vision algorithms to recognize hand gestures and voice commands, providing smooth interaction without any additional hardware requirements. It consists of two modules: one which directly works on hands using MediaPipe Hand detection, and the other which makes use of gloves of any uniform color. Currently, it works on the Windows platform.
 
@@ -8,14 +8,16 @@ Gesture Controlled Virtual Mouse makes human-computer interaction simple by util
 3. **Car Infotainment System**: Drivers and passengers can control various functions of the car's infotainment system through hand gestures, allowing for safer and more convenient operation while driving.
 
 ### Frameworks, Libraries, and Technologies Used
-- **MediaPipe**: Used for hand detection and landmark recognition.
-- **OpenCV (cv2)**: Used for capturing video frames, image processing, and drawing landmarks.
-- **PyAutoGUI**: Used for controlling mouse movements and clicks.
-- **Math**: Used for mathematical calculations related to distances and ratios.
-- **PyCaw**: Used for controlling system volume.
-- **Screen Brightness Control**: Used for controlling system brightness.
-- **Enum**: Used for defining enums for hand gestures and multi-handedness labels.
-- **ctypes and comtypes**: Used for controlling system volume and interacting with Windows components.
+- ![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-blue)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-green)
+- ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.52-orange)
+- ![Math](https://img.shields.io/badge/Math-Standard-yellow)
+- ![PyCaw](https://img.shields.io/badge/PyCaw-Latest-lightgrey)
+- ![Screen Brightness Control](https://img.shields.io/badge/Screen%20Brightness%20Control-Latest-brightgreen)
+- ![Enum](https://img.shields.io/badge/Enum-Latest-red)
+- ![ctypes](https://img.shields.io/badge/ctypes-Latest-blueviolet)
+- ![comtypes](https://img.shields.io/badge/comtypes-Latest-yellowgreen)
+
 
 ### Instructions for Running
 To run the Gesture Controlled OS, follow these steps:
@@ -29,8 +31,9 @@ To run the Gesture Controlled OS, follow these steps:
 ### Contributors
 This project was developed by Team Spongebob during a hackathon.
 
-- [Developer 1 Name]
-- [Developer 2 Name]
-- [Developer 3 Name]
+- [Vijay Varadharajan]
+- [Santhosh Kumar S P]
+- [Goutham Kurapati]
+- [Gokul]
 
-For any inquiries or issues, please contact [Project Maintainer Email].
+For any inquiries or issues, please contact santhoshkumarsp222004@gmail.com .
