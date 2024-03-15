@@ -5,16 +5,16 @@ Gesture Controlled Virtual Mouse makes human-computer interaction simple by util
 
 ### Future Applications
 1. **Hospital Surgery Room**: Surgeons can control vital monitors for patients' data history without contaminating gloves, ensuring a sterile environment during surgeries.
-2. **Billing Kiosks**: Users can navigate through billing kiosks in public spaces without physically touching the screen, enhancing hygiene and reducing the spread of germs.
+2. **Billing & Restaurant Kiosks**: Users can navigate through billing kiosks in public spaces without physically touching the screen, enhancing hygiene and reducing the spread of germs.
 3. **Car Infotainment System**: Drivers and passengers can control various functions of the car's infotainment system through hand gestures, allowing for safer and more convenient operation while driving.
 
 ### Features included: 
  - Hand gesture enabled mouse control, with clicks
- - Window and tab switch gestures
+ - Select and drag elements
  - Volume and brightness controls
  - Screen scroll
- - Maximize / minimize window 
- - Demo interface
+ - Demo Shopping interface ![Here](https://github.com/GokulAnithaNandakumar/Technicia/blob/main/Shopping/src/DragDrop.html) 
+ - Powerpoint controls ![Here](https://github.com/GokulAnithaNandakumar/Technicia/blob/main/Powerpoint/powerpoint.py)
 
 
 ### Frameworks, Libraries, and Technologies Used
