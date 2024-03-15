@@ -1,0 +1,45 @@
+ul.grid{
+    /* background: #aaa; */
+    display: flex;
+    flex-direction: row;
+    width: 60rem;
+    border: 1px solid;
+  }
+  #target-grid{
+    width: 20rem;
+    height: 20rem;
+  }
+  ul.grid li{
+    list-style: none;
+    display: inline-block; 
+    /* background: #888; */
+    min-height: 100px;
+    min-width: 100px;
+    max-width: 100px;
+    margin: 6px;
+    border: 1px solid;
+  }
+
+  .collection{
+    min-height: 130px;
+    max-width: 450px;
+    background: #aaa;
+    float: right;
+  }
+  .draggablediv{
+    float: left;
+  }
+  .draggable{
+    cursor: pointer;
+  }
+  .icon-remove{
+    margin-left: 70px;
+    cursor: pointer;
+  }
+  
+  .heading{
+    /* background: #999; */
+    color: brown;
+    
+  }
+  
