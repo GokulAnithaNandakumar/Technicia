@@ -7,6 +7,16 @@ Gesture Controlled Virtual Mouse makes human-computer interaction simple by util
 2. **Billing Kiosks**: Users can navigate through billing kiosks in public spaces without physically touching the screen, enhancing hygiene and reducing the spread of germs.
 3. **Car Infotainment System**: Drivers and passengers can control various functions of the car's infotainment system through hand gestures, allowing for safer and more convenient operation while driving.
 
+### Features included: 
+ - Hand gesture enabled mouse control, with clicks
+ - Window and tab switch gestures
+ - Volume and brightness controls
+ - Screen scroll
+ - Maximize / minimize window
+ - 
+ - Demo interface
+
+
 ### Frameworks, Libraries, and Technologies Used
 - ![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-blue)
 - ![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-green)
