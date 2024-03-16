@@ -39,14 +39,15 @@ To run the Gesture Controlled OS, follow these steps:
 
 1. Ensure you have all necessary libraries installed (MediaPipe, OpenCV, PyAutoGUI, etc.).
 2. Clone the repository to your local machine.
-3. Navigate to the directory containing the code.
-4. Run the Python script.
+3. Run the workingmodel.ipynb to run the main code with all the features gestures.
+4. Navigate to PowerPoint/ and run powerpoint.py to enable the gesture features for ppt presentations.
 5. Position your hands in front of the camera and perform gestures to control the OS.
+6. Run DragDrop.html inside Shopping/src for a sample kiosk setup, to test the gestures
 
 ### Contributors
-This project was developed by Team Spongebob during a hackathon.
+This project was developed by Team Spongebob during Technica24 at VIT Vellore.
 
-- Vijay Varadharajan
+- Vijay Varadarajan
 - Santhosh Kumar S P
 - Goutham Kurapati
 - Gokul
