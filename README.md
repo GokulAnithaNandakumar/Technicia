@@ -15,6 +15,8 @@ Gesture Controlled Virtual Mouse makes human-computer interaction simple by util
  - Screen scroll
  - Demo Shopping interface [Here](https://github.com/GokulAnithaNandakumar/Technicia/blob/main/Shopping/src/DragDrop.html) 
  - Powerpoint controls [Here](https://github.com/GokulAnithaNandakumar/Technicia/blob/main/Powerpoint/powerpoint.py)
+
+   
 ![Screenshot 2024-03-16 030855](https://github.com/GokulAnithaNandakumar/Technicia/assets/112749784/64b86d2a-5858-43a9-a8d0-a1b2aaf324d4)
 ![Screenshot 2024-03-16 030910](https://github.com/GokulAnithaNandakumar/Technicia/assets/112749784/edda3903-ffe4-4aa1-bc0a-501a0541058f)
 
