@@ -11,7 +11,7 @@ Gesture Controlled Virtual Mouse makes human-computer interaction simple by util
 ### Features included: 
  - Hand gesture enabled mouse control, with clicks
  - Select and drag elements
- - Volume and brightness controls
+ - Volume controls
  - Screen scroll
  - Demo Shopping interface [Here](https://github.com/GokulAnithaNandakumar/Technicia/blob/main/Shopping/src/DragDrop.html) 
  - Powerpoint controls [Here](https://github.com/GokulAnithaNandakumar/Technicia/blob/main/Powerpoint/powerpoint.py)
@@ -29,7 +29,6 @@ Gesture Controlled Virtual Mouse makes human-computer interaction simple by util
 - ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.52-orange)
 - ![Math](https://img.shields.io/badge/Math-Standard-yellow)
 - ![PyCaw](https://img.shields.io/badge/PyCaw-Latest-lightgrey)
-- ![Screen Brightness Control](https://img.shields.io/badge/Screen%20Brightness%20Control-Latest-brightgreen)
 - ![Enum](https://img.shields.io/badge/Enum-Latest-red)
 - ![ctypes](https://img.shields.io/badge/ctypes-Latest-blueviolet)
 - ![comtypes](https://img.shields.io/badge/comtypes-Latest-yellowgreen)
